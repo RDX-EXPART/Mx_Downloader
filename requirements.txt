@@ -1,0 +1,6 @@
+hydrogram
+TgCrypto
+motor
+aiohttp
+requests
+yt-dlp

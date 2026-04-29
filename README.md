@@ -160,8 +160,8 @@ Contributions are welcome! Please:
 ## 📞 Support
 
 For issues or questions:
-- Open an [Issue](https://github.com/yourusername/mxbot/issues)
-- Contact via Telegram: [@YourSupportBot](https://t.me/YourSupportBot)
+- Open an [Issue](https://github.com/DKNS-LABS/mx_downloader/issues)
+- Contact via Telegram: [Dkns-lab](https://t.me/DknsLabSupport)
 
 ---
 
